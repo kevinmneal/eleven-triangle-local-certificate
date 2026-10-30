@@ -12,14 +12,14 @@ Sebastian Pokutta and Imre Pólik**. This project contributes an exact local
 certificate for its limiting contact configuration. It makes no claim of a
 new packing record, global optimality, or first priority for this local theorem.
 
-![Eleven unimpressed triangles shake in their pentagon, then settle: still jammed.](docs/assets/still-jammed.gif)
+![Eleven triangle characters shrink, tumble, collide and panic, then squeeze back into their old arrangement looking annoyed.](docs/assets/triangle-tantrum.gif)
 
-*Cartoon animation of the known arrangement. [What the actual shaking found](docs/RESEARCH_NOTES.md).*
+*An exaggerated cartoon: the triangles temporarily shrink, tumble, and return to the known arrangement. [What the actual shaking found](docs/RESEARCH_NOTES.md).*
 
 <details>
 <summary>Still images and the construction's contact diagram</summary>
 
-![Still jammed, without the shaking](docs/assets/still-jammed.png)
+![Still jammed, without the shaking](docs/assets/triangle-tantrum.png)
 
 ![The known construction and its contacts](certificate/figures/source_local_packing.png)
 

@@ -1,6 +1,6 @@
 {
   "schema": "eleven-triangle-local-certificate-release-v1",
-  "version": "0.1.0+shaking-gif",
+  "version": "0.1.0+expressive-shaking",
   "date": "2026-10-30",
   "scope": "Strict local minimum in the stated 1e-7 coordinate neighborhood; global optimum open",
   "sha256": {
@@ -11,7 +11,7 @@
     "LICENSE-MIT": "b514a4415ad8defd6532f9e292e932d13e9fe80853b605b580400876d418debe",
     "LICENSE.md": "3dd8f0a610fa3abcffbf4f6885a8611b72c725930899cedd25760ac831d7e211",
     "PROVENANCE.md": "462f345c843ffd627437a953575c115c74a7643d0ae196c4a94f23b887a58370",
-    "README.md": "415fe24bed5ae342dfb52ff8ddccf88c1d09f5abafeb9ecbe320d32a892e9bc6",
+    "README.md": "6727bdcacacb780f5fbd6183b0c9e7a2e6050d3e8b64154962818b4561bd8ffe",
     "certificate/PACKET_MANIFEST.json": "15312d62ecbb1709f5eea5725c6b4f32a98b01c9e780dffc47a1a137ea20dd48",
     "certificate/READ_ME_FIRST.md": "4bbf82a2fe6fe03a301e6450a4e47f4db5b06022c949613fc94c3bc4beb50f83",
     "certificate/baselines/l5_m3_n11.txt": "dda9fb88b4f4b173c321fa5c0b4fa4677a582bd7fbe0fd68581292606c36138e",
@@ -40,14 +40,14 @@
     "certificate/verification/source_local_radius_1e_minus_7_verdict.json": "599cbeb38e153a3f3d307115a719cd77d6ef630e4b6e74d479df3f764bb23813",
     "certificate/verify_packet.py": "dc78d549c249bc5a84246f3d031f1b20d7cb272f329df8933d88d2fb9c05240d",
     "docs/RESEARCH_NOTES.md": "a4997b80be02c5bf5a2acb2b609fa52c93ee535d60e4cd7d3f6e5f9be215a832",
-    "docs/assets/still-jammed.gif": "a91af2c06f8b9c0ad54a8c00bdb3ab13e81187b7e0f1e405ffdc628e5748afeb",
-    "docs/assets/still-jammed.png": "f5d05a78b31e4aa56d6a7bb79255d4a7119693c7253b6d1eb37cab79a0f03e74",
+    "docs/assets/triangle-tantrum.gif": "3889d6c7f8bfc44a6c931158123013f2852d17b969bca1d78cd37443aaa251a7",
+    "docs/assets/triangle-tantrum.png": "cb17273b4fd6ce72f7784584bba40d8c7dc00cb0252d2ea0e9159a4b9ecf4625",
     "tools/check_release.py": "78aa7bae9b7e4d28f581dc3527d37265ccc54c21e8595a3935fddd4dee9ee774",
-    "tools/render_shaking.py": "e5f28d17fbf4410e8b8aec9f3fed243a12f3ff9643b0e99007230583bea429e3",
+    "tools/render_shaking.py": "d6d20cd63acf6f5b48658019966e98c0a99e4c9f90a4768c6a2c56177d948f19",
     "validation/controls.log": "4ffa5d8b809f601085f8f975986994c5a7e8896100bf680073e02949e5315730",
     "validation/proof_replay.log": "d50f2b9bac9ed2e8e0b4417ad7674d8c1192f84d93ec7dd7de7586cd0a31ba78",
     "validation/receipt.json": "378f8445c0abec5e72a2ebd0257c8574aa2c663b6a0f0a1d9a38a07facda2f82"
   },
   "base_release": "v0.1.0",
-  "presentation_change": "README cartoon animation only; exact proof packet unchanged."
+  "presentation_change": "README cartoon with individually moving characters and animated reactions; exact proof packet unchanged."
 }
