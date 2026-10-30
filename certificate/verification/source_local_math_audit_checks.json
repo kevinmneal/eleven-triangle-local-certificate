@@ -1,0 +1,17 @@
+{
+  "mutation": {
+    "test": "larger_unsupported_neighborhood",
+    "mutant_local_radius": "1e-5",
+    "rejected": true,
+    "exception": "ValueError",
+    "reason": "Strict local radius growth is not proved",
+    "seconds": 0.24446508300025016
+  },
+  "conservative_growth_0_000011159_proved": true,
+  "branch_row_counts": [
+    36
+  ],
+  "branch_count": 256,
+  "root_unique_in_box": true,
+  "input_sha256": "680ecd966e5391810df5d0d5782d9c78a3016e9f1c2544a4147f8af36353d4a8"
+}

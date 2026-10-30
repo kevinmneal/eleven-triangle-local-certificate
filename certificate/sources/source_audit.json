@@ -1,0 +1,29 @@
+{
+  "retrieved_date": "2026-10-09",
+  "repository": "https://github.com/DominikKamp/Packing",
+  "commit": "27f71632d8655ae4b6a049410a401976748b94e3",
+  "files": [
+    {
+      "file": "l5_m3_n10.txt",
+      "sha256": "885bae07261afc75b72c04256f1e6f69a72aeaf6ee99392d1e415dc264599624",
+      "original_sha256": "885bae07261afc75b72c04256f1e6f69a72aeaf6ee99392d1e415dc264599624",
+      "byte_identical": true,
+      "token_identical": true,
+      "url": "https://raw.githubusercontent.com/DominikKamp/Packing/27f71632d8655ae4b6a049410a401976748b94e3/polygon/l5/m3/n10/polygon_n10_m3_l5.txt"
+    },
+    {
+      "file": "l5_m3_n11.txt",
+      "sha256": "dda9fb88b4f4b173c321fa5c0b4fa4677a582bd7fbe0fd68581292606c36138e",
+      "original_sha256": "dda9fb88b4f4b173c321fa5c0b4fa4677a582bd7fbe0fd68581292606c36138e",
+      "byte_identical": true,
+      "token_identical": true,
+      "url": "https://raw.githubusercontent.com/DominikKamp/Packing/27f71632d8655ae4b6a049410a401976748b94e3/polygon/l5/m3/n11/polygon_n11_m3_l5.txt"
+    }
+  ],
+  "original_archive_sha256": "cddae7a2af6e22acb0fa9c9bbacaea2fea1845e0ea41b78eaafe54ea5802aff6",
+  "package_integrity": {
+    "files_checked": 55,
+    "failures": 0
+  },
+  "notes": "Original Pro files retained unchanged. Upstream commit pinned by GitHub API; raw files downloaded independently with curl. Original source_manifest status text predates exact certificates; the supplied eleven-triangle certificate passes without legalization."
+}

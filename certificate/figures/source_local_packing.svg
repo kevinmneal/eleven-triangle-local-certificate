@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="820.8pt" height="669.6pt" viewBox="0 0 820.8 669.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-09T12:51:24.427364</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 669.6 
+L 820.8 669.6 
+L 820.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 180.8555 522.880608 
+L 98.594867 269.708413 
+L 313.956 113.239392 
+L 529.317133 269.708413 
+L 447.0565 522.880608 
+z
+" clip-path="url(#p3d466e69fe)" style="fill: #fafbfc"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 480.595491 234.310069 
+L 466.223771 375.797493 
+L 350.877928 292.607506 
+z
+" clip-path="url(#p3d466e69fe)" style="fill: #b4dce0; stroke: #227b84; stroke-width: 1.15"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 247.621799 325.422469 
+L 150.431795 429.246073 
+L 109.112919 293.165259 
+z
+" clip-path="url(#p3d466e69fe)" style="fill: #e7ecef; stroke: #65747d; stroke-width: 1.15"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 324.944784 323.095747 
+L 310.573064 464.583171 
+L 195.22722 381.393184 
+z
+" clip-path="url(#p3d466e69fe)" style="fill: #f2d4a3; stroke: #a76d25; stroke-width: 1.15"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 208.504513 189.854381 
+L 249.82339 325.935196 
+L 111.314509 293.677985 
+z
+" clip-path="url(#p3d466e69fe)" style="fill: #e7ecef; stroke: #65747d; stroke-width: 1.15"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 357.573922 399.718406 
+L 428.681653 522.880608 
+L 286.466191 522.880608 
+z
+" clip-path="url(#p3d466e69fe)" style="fill: #e7ecef; stroke: #65747d; stroke-width: 1.15"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 310.573064 464.583171 
+L 180.8555 522.880608 
+L 195.22722 381.393184 
+z
+" clip-path="url(#p3d466e69fe)" style="fill: #f2d4a3; stroke: #a76d25; stroke-width: 1.15"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 313.956 113.239392 
+L 355.274876 249.320206 
+L 216.765996 217.062995 
+z
+" clip-path="url(#p3d466e69fe)" style="fill: #decaea; stroke: #855798; stroke-width: 1.15"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 355.274876 249.320206 
+L 258.084873 353.143809 
+L 216.765996 217.062995 
+z
+" clip-path="url(#p3d466e69fe)" style="fill: #decaea; stroke: #855798; stroke-width: 1.15"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 480.595491 234.310069 
+L 350.877928 292.607506 
+L 365.249648 151.120082 
+z
+" clip-path="url(#p3d466e69fe)" style="fill: #b4dce0; stroke: #227b84; stroke-width: 1.15"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 444.946265 360.451682 
+L 315.228701 418.74912 
+L 329.600421 277.261696 
+z
+" clip-path="url(#p3d466e69fe)" style="fill: #e7ecef; stroke: #65747d; stroke-width: 1.15"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 496.681634 370.150149 
+L 452.73464 505.40509 
+L 357.573922 399.718406 
+z
+" clip-path="url(#p3d466e69fe)" style="fill: #e7ecef; stroke: #65747d; stroke-width: 1.15"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 180.8555 522.880608 
+L 98.594867 269.708413 
+L 313.956 113.239392 
+L 529.317133 269.708413 
+L 447.0565 522.880608 
+L 180.8555 522.880608 
+z
+" clip-path="url(#p3d466e69fe)" style="fill: none; stroke: #233540; stroke-width: 2.2"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233540" x="432.56573" y="304.768148" transform="rotate(-0 432.56573 304.768148)">1</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233540" x="169.055504" y="353.141059" transform="rotate(-0 169.055504 353.141059)">2</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233540" x="276.915023" y="393.553826" transform="rotate(-0 276.915023 393.553826)">3</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233540" x="189.880804" y="273.685646" transform="rotate(-0 189.880804 273.685646)">4</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233540" x="357.573922" y="485.689666" transform="rotate(-0 357.573922 485.689666)">5</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233540" x="228.885261" y="460.14878" transform="rotate(-0 228.885261 460.14878)">6</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233540" x="295.332291" y="197.070656" transform="rotate(-0 295.332291 197.070656)">7</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233540" x="276.708582" y="277.038795" transform="rotate(-0 276.708582 277.038795)">8</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233540" x="398.907689" y="229.875677" transform="rotate(-0 398.907689 229.875677)">9</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233540" x="363.258462" y="356.017291" transform="rotate(-0 363.258462 356.017291)">10</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #233540" x="435.663399" y="428.95434" transform="rotate(-0 435.663399 428.95434)">11</text>
+   </g>
+  </g>
+  <g id="patch_15">
+   <path d="M 618.0624 220.968 
+L 638.5824 220.968 
+L 638.5824 202.8888 
+L 618.0624 202.8888 
+z
+" style="fill: #b4dce0; stroke: #227b84; stroke-linejoin: miter"/>
+  </g>
+  <g id="patch_16">
+   <path d="M 618.0624 271.188 
+L 638.5824 271.188 
+L 638.5824 253.1088 
+L 618.0624 253.1088 
+z
+" style="fill: #f2d4a3; stroke: #a76d25; stroke-linejoin: miter"/>
+  </g>
+  <g id="patch_17">
+   <path d="M 618.0624 321.408 
+L 638.5824 321.408 
+L 638.5824 303.3288 
+L 618.0624 303.3288 
+z
+" style="fill: #decaea; stroke: #855798; stroke-linejoin: miter"/>
+  </g>
+  <g id="patch_18">
+   <path d="M 618.0624 374.3064 
+L 638.5824 374.3064 
+L 638.5824 356.2272 
+L 618.0624 356.2272 
+z
+" style="fill: #e7ecef; stroke: #65747d; stroke-linejoin: miter"/>
+  </g>
+  <g id="text_12">
+   <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #233540" x="51.7104" y="36.828" transform="rotate(-0 51.7104 36.828)">Known construction: certified local minimum</text>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5a6b75" x="51.7104" y="66.96" transform="rotate(-0 51.7104 66.96)">Eleven unit-side equilateral triangles</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #233540" x="51.7104" y="90.396" transform="rotate(-0 51.7104 90.396)">Regular pentagon side  s ≈ 1.87181475516447</text>
+  </g>
+  <g id="text_15">
+   <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #233540" x="618.0624" y="177.444" transform="rotate(-0 618.0624 177.444)">Shared-edge rhombi</text>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #233540" x="650.8944" y="216.24405" transform="rotate(-0 650.8944 216.24405)">Triangles 1 and 9</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #233540" x="650.8944" y="266.46405" transform="rotate(-0 650.8944 266.46405)">Triangles 3 and 6</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #233540" x="650.8944" y="316.68405" transform="rotate(-0 650.8944 316.68405)">Triangles 7 and 8</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #233540" x="650.8944" y="369.58245" transform="rotate(-0 650.8944 369.58245)">Other triangles</text>
+  </g>
+  <g id="text_20">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #5a6b75" transform="translate(618.0624 398.569808)">All 11 rotations remain</text>
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; fill: #5a6b75" transform="translate(618.0624 413.8128)">independent in the theorem.</text>
+  </g>
+  <g id="text_21">
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; fill: #233540" transform="translate(618.0624 455.100267)">Global optimum</text>
+   <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; fill: #233540" transform="translate(618.0624 474.7464)">remains open.</text>
+  </g>
+  <g id="text_22">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5a6b75" x="51.7104" y="567.1512" transform="rotate(-0 51.7104 567.1512)">Rounded illustration of the certified contact point. Exact arithmetic and neighborhood bounds are in the separate proof.</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5a6b75" x="51.7104" y="587.9088" transform="rotate(-0 51.7104 587.9088)">Highlighted rhombi describe the contact arrangement; the proof allows every triangle to translate and rotate independently.</text>
+  </g>
+  <g id="text_24">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5a6b75" x="51.7104" y="608.6664" transform="rotate(-0 51.7104 608.6664)">Coordinates are scaled to unit triangle side. Removing the source's clearance does not supply a new packing record.</text>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5a6b75" x="51.7104" y="636.12" transform="rotate(-0 51.7104 636.12)">Certificate: source_local_v2.json.gz  ·  256 local contact branches checked</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3d466e69fe">
+   <rect x="85.795476" y="100.44" width="456.321048" height="435.24"/>
+  </clipPath>
+ </defs>
+</svg>

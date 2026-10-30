@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this repository if you use the local certificate or its verification code. Preserve the separate attribution of the packing construction."
+title: "An exact local-optimality certificate for eleven triangles in a pentagon"
+type: software
+authors:
+  - family-names: Neal
+    given-names: Kevin M.
+version: 0.1.0
+date-released: 2026-10-30
+url: "https://github.com/kevinmneal/eleven-triangle-local-certificate/releases/tag/v0.1.0"
+repository-code: "https://github.com/kevinmneal/eleven-triangle-local-certificate"
+abstract: "A standard-library Python certificate of strict local optimality for the limiting contact version of the known eleven-equilateral-triangle packing in a regular pentagon. All triangle translations and rotations are independent. This is not a global optimality proof or a new packing construction."

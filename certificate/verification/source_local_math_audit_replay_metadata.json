@@ -1,0 +1,17 @@
+{
+  "exit_code": 0,
+  "wall_seconds": 5.911415125010535,
+  "before_sha256": {
+    "check_source_local.py": "56da30f41a2741208ab850b49bd8d439c839388226bf83e1cf27ec11d2363f7d",
+    "research/source_local_intervals.py": "cce30170260c74847ddb434662185bbefa90a167033ad1b31db5f99a2a649258",
+    "hardened_checker.py": "03f08966df9f03c6437f74bccf9b5426e3d40341a0e6e8bc1130e13cbb523ed7",
+    "certificates/source_local_v2.json.gz": "680ecd966e5391810df5d0d5782d9c78a3016e9f1c2544a4147f8af36353d4a8"
+  },
+  "after_sha256": {
+    "check_source_local.py": "56da30f41a2741208ab850b49bd8d439c839388226bf83e1cf27ec11d2363f7d",
+    "research/source_local_intervals.py": "cce30170260c74847ddb434662185bbefa90a167033ad1b31db5f99a2a649258",
+    "hardened_checker.py": "03f08966df9f03c6437f74bccf9b5426e3d40341a0e6e8bc1130e13cbb523ed7",
+    "certificates/source_local_v2.json.gz": "680ecd966e5391810df5d0d5782d9c78a3016e9f1c2544a4147f8af36353d4a8"
+  },
+  "unchanged": true
+}

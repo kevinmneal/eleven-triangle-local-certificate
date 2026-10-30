@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "release": "v0.1.0",
+  "python": "3.13.5",
+  "runs": [
+    {
+      "check": "proof_replay",
+      "returncode": 0,
+      "child_cpu_seconds": 5.979655999999999
+    },
+    {
+      "check": "controls",
+      "returncode": 0,
+      "child_cpu_seconds": 12.333335
+    }
+  ],
+  "elapsed_seconds": 18.46665087499423,
+  "unchanged_original_packet_files": 25,
+  "packaging_changes": [
+    "READ_ME_FIRST.md",
+    "PACKET_MANIFEST.json"
+  ],
+  "all_proof_code_and_data_unchanged": true,
+  "scope": "Exact local theorem only; no global proof or new construction"
+}
