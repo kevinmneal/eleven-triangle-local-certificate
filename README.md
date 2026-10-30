@@ -12,7 +12,18 @@ Sebastian Pokutta and Imre Pólik**. This project contributes an exact local
 certificate for its limiting contact configuration. It makes no claim of a
 new packing record, global optimality, or first priority for this local theorem.
 
+![Eleven unimpressed triangles shake in their pentagon, then settle: still jammed.](docs/assets/still-jammed.gif)
+
+*Cartoon animation of the known arrangement. [What the actual shaking found](docs/RESEARCH_NOTES.md).*
+
+<details>
+<summary>Still images and the construction's contact diagram</summary>
+
+![Still jammed, without the shaking](docs/assets/still-jammed.png)
+
 ![The known construction and its contacts](certificate/figures/source_local_packing.png)
+
+</details>
 
 The illustrated pentagon has side approximately **1.87181475516447** when
 the triangles have side one. The difference from the authors' exported decimal
